@@ -1,6 +1,5 @@
 # Rotation_Strategy_Brazil_Mexico
 ## Jupyter notebooks 
-* There are five jupyter notebooks
 * Brazil_ETFs_Trading.ipynb (9 etfs) has calculations for all rebalancing frequencies including Annual, Semi-Annual, Quarterly, Monthly and Weekly
 * Mexico_ETFs_Trading.ipynb (9 etfs) has calculations for all rebalancing frequencies including Annual, Semi-Annual, Quarterly, Monthly and Weekly
 ## Data files
